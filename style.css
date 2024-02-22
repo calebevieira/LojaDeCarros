@@ -32,7 +32,8 @@ h3 {
 .imagem {
     width: 450px;
     border-radius: 10%;
-    filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.5));
+    box-shadow: #1d1d1d  2px 5px 10px -2px;
+    margin-bottom: 50px;
 }
 
 /* ===  estilos para destaques === */
@@ -100,4 +101,5 @@ h1 {
 
 .maps {
     border-radius: 10%;
+    box-shadow: #1d1d1d  2px 5px 10px -2px;
 }
